@@ -1,0 +1,38 @@
+proyectos ; 
+
+propiedad  col-push y col-pool = sirve pra jalar 
+
+col-sm-push-7
+col-sm-push-5
+despues se invierten 
+
+
+col-xs-12   important
+col-xs-12   important
+
+hacer una imagen en pixeles (cuadros)
+position relative ;
+z-index: 2;
+overflow: hidden
+para la sombra puede ser un triangulo 
+
+
+al menu 
+div nav-collapse collapse in id= "bs-example "
+collapse in 
+
+$('header')
+
+jquery ocultar y no ocultar 
+
+
+----
+
+fixed no cree en un padre solo en el ancho de laa pantalla
+
+rgba - z-index para el color 
+
+al div se  le agrega el border-top border-bottom linea solid pix 15px;
+
+
+cuando este
